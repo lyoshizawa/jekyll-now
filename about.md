@@ -3,11 +3,20 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-Hi
+Pardon the mess, this is stil under construction!
 
-### More Information
+### Employment History
+July 2017 - Current
+**Infosys** - *Charlotte, North Carolina*
 
-A place to include any other types of information that you'd like to include about yourself.
+May 2016 - April 2017
+**Bank of Hawaii** - *Honolulu, Hawaii*
+
+### Education
+Bachelors of Business Administration, Management Information Systems, University of Hawaii at Manoa, May 2016
+
+Udacity Data Analyst Nanodegree, September 2017
+
 
 ### Contact me
-
+[lyoshiza@gmail.com]
