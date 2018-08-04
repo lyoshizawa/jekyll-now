@@ -11,6 +11,10 @@ This is my first project!  Its a python script that compares the output of two u
 2. Files that **do not** match in size and date
 3. Files that only exist in on directory but not the other
 
+*Last updated August 2018*
+
 ### [Data Analyst Nanodegree](https://github.com/lyoshizawa/udacity_data_analyst_nanodegree)
-This is a repository of my notes and project files when completing the Udacity Data Analyst Nanodegree.  Multiple projects were assigned, and I utilized Python, R, and Tableau to create the reports.
+This is a repository of my notes and project files when completing the Udacity Data Analyst Nanodegree.  Multiple projects were assigned, and I utilized Python, R, and Tableau to create the reports.  This was my first foray into Python, and its been interesting since then!
+
+*Program completed September 2017*
 
